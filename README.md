@@ -1,0 +1,2 @@
+# Large Lists
+The goal of this project is to identify performant solutions for rendering and re-rendering large lists of varying UI complexity with client side rendering. This project specifically uses Blazor, but hopefully the learnings are applicable beyond Blazor to all frameworks that need the DOM to do a lot of work to output large amounts of repetitive HTML.
